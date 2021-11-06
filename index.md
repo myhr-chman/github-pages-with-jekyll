@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Hello :)"
 ---
 
-I'm glad you are here. I plan to talk about ...
+Greetings. The name's C1747210472.
